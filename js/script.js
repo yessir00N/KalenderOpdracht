@@ -1,4 +1,4 @@
-var currentDate = new Date();
+let currentDate = new Date();
 
 function generateCalendar() {
     var calendarDays = document.getElementById('calendarDays');
